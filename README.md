@@ -59,7 +59,7 @@ catkin_make -DCMAKE_BUILD_TYPE=RelWithDebugInfo
 ```
 
 
-# 3. Gazebo demo (existing map)
+# 3. Start Gazebo demo (existing map)
 ```bash
 roslaunch mir_navigation mir_start.launch
 ```
