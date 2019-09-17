@@ -1,0 +1,6 @@
+MiR200_Sim/mir_driver/nodes/rep117_filter.py
+--> chmod +x rep117_filter.py
+
+Warning: Invalid argument "/map" passed to canTransform argument target_frame
+--> MiR200_Sim/mir_navigation/config/costmap_global_params.yaml:
+	globalframe: map
